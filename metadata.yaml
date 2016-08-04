@@ -1,0 +1,42 @@
+_repo: The-Trail-of-the-Lonesome-Pine_5122
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 5122/5122-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Fox, John
+    alias: Fox, John William
+    birthdate: 1863
+    deathdate: 1919
+    gutenberg_agent_id: '179'
+    url: http://www.gutenberg.org/2009/agents/179
+    wikipedia: http://en.wikipedia.org/wiki/John_Fox%2C_Jr.
+description: "The Trail of the Lonesome Pine is a 1908 romance novel/western novel\
+  \ written by John Fox, Jr.. The novel became Fox's most successful, and was included\
+  \ among the top ten list of bestselling novels for 1908 and 1909. The novel has\
+  \ been adapted numerous times for both stage and screen.\nThe novel inspired the\
+  \ same-titled song published in 1913.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5122'
+  wikidata: Q7769881
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Cumberland Mountains -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Trail of the Lonesome Pine
+url: http://www.gutenberg.org/ebooks/5122
+wikipedia:
+- https://sh.wikipedia.org/wiki/The_Trail_of_the_Lonesome_Pine_(roman)
+- https://en.wikipedia.org/wiki/The_Trail_of_the_Lonesome_Pine_(novel)
+- https://it.wikipedia.org/wiki/Il_sentiero_del_pino_solitario
