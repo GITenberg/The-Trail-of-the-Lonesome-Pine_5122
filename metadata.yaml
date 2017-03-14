@@ -1,10 +1,8 @@
 _repo: The-Trail-of-the-Lonesome-Pine_5122
-_version: 0.1.0
+_version: 0.2.0
 covers:
-- cover_type: archival
-  image_path: 5122/5122-h/images/titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fox, John
@@ -19,6 +17,8 @@ description: "The Trail of the Lonesome Pine is a 1908 romance novel/western nov
   \ among the top ten list of bestselling novels for 1908 and 1909. The novel has\
   \ been adapted numerous times for both stage and screen.\nThe novel inspired the\
   \ same-titled song published in 1913.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5122#The-Trail-of-the-Lonesome-Pine
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
